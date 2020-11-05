@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Poem Player</string>
+
+    <string name="poem1">Twinkle, twinkle, little star
+How I wonder what you are
+Up above the world so high
+Like a diamond in the sky
+Twinkle, twinkle little star
+How I wonder what you are</string>
+
+    <string name="poem2">Rainbow Rainbow, high and bright.
+Rainbow rainbow, made of light.
+From the clouds to the ground,
+I see colors all around.
+
+Red, Orange, Yellow, Green, Blue
+Indigo and Violet too
+Red, Orange, Yellow, Green, Blue
+Indigo and Violet too.
+</string>
+
+    <string name="poem3">Early to bed
+and early to rise,
+makes a man
+healthy wealthy
+and wise</string>
+</resources>
